@@ -1,3 +1,14 @@
 body{
-  background-color: lightpink;
+  background-color: lightblue;
+}
+h1{
+  font-size: 5rem
+  }
+h2, p, .bottom{
+  font-size: 3rem;
+}
+button{
+  font-size: 4rem;
+  padding: 10px;
+  border-radius: 10px;
 }
