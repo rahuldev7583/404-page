@@ -1,14 +1,14 @@
-body{
+body {
   background-color: white;
   text-align: center;
 }
-img{
+img {
   width: 100%;
 }
-h1{
+h1 {
   font-size: 2.5rem;
 }
-p{
+p {
   font-size: 1.2rem;
 }
 button {
@@ -18,16 +18,17 @@ button {
   border: 2px solid black;
   border-radius: 5px;
   padding: 5px;
+  cursor: pointer;
 }
-button:hover{
+button:hover {
   background-color: white;
   color: black;
 }
-.bottom{
+.bottom {
   position: absolute;
   bottom: 1rem;
   left: 30%;
 }
-a{
+a {
   color: black;
 }
